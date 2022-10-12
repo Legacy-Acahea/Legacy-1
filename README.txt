@@ -1,0 +1,56 @@
+# Legacy
+Legacy Changelog
+
+V0.1 -- Enemy API Tracking, NDB, Self GMCP Aff tracking, Curing priority swaping, Curing Settings/Status
+     -- Issues: 
+    1.) Need to use Events better
+    2.) Broken NDB Load Order (See 1)
+    3.) Color triggers for NDB Highlights Failing
+
+    --Things I still need to do:
+    1.) Enemy tracking for city enemies
+
+V0.2 -- NDB Color triggers fixed, Events for Load order fixed. Initial setup on login event now working (Stable Build)
+    --Issues:
+    1.) Nothing Glaringly wrong, just unfinished
+    
+    --Things I still need to do:
+    1.) Prompt Setup is next priority.
+        a. Proper selection of information and then itteration into prompt
+
+V0.2.1 -- Fixed some quick issues with typos and added enemy functionality to NDB
+
+V0.2.2 -- Test with Myrddin (Most stable Build)
+      --Issues:
+      1.) Enemies tabled needs added to LInstall()
+      2.) Random missed new lines in NDB capture
+
+    --Things I need to do:     
+    started fucking with tradeskills (God save us all)
+V0.3 -- Added Rift tracking, first test of milling scripts, added Settings display for city colors to NDB, added Honours pulling for NDB
+        Added Rune Highlighting, as well as the option to smudge if in runewarden or shaman and of course the option to just not have this all together
+    --Issues:
+      1.) Not having ink milling is making stress testing the functionality difficult, reached out to Elyra and Reonna to help test
+    
+    --Things I still need to do:
+      1.) GUI for choosing packages, with disables.
+      2.) Test inkmilling
+      3.) add finished extras
+
+V0.4 -- Added Prompt functionality with clickable toggle. Tested milling to mixed results. Added Army rank to honours tracking and 'ar <city>` to check online Army members of Rank3+. Added timers and SS tracking for applies/sips/eats
+    --Issues: 
+      1.) Rift is not loaded from IRE on GMCP send
+      2.) Need to clean up package with essentials and make sure they connect with segmented scripts
+    
+    --Things I still need to do:
+      1.) Sleep
+
+V0.4.1 -- Added the first look at settings display want confirmation its what we are looking for before I go crazy with it. 
+       -- Added a default curing priority list currently set with `cset legacy` **THIS WILL OVER WRITE YOUR CURRENT PRIOS** Make sure you do this on a               blank curing set
+       -- This version should be completely stand alone from the extra's
+
+       --Things I still need to do:
+         1.) Finish settings display if this is the look we like.
+         2.) Look into a better format for keeping deffs up, I scrapped what I had previously wasn't happy with it 
+             (Currently Phaestus is working on curing stuff so he might fix this issue for us.)
+     
