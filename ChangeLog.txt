@@ -53,4 +53,9 @@ V0.4.1 -- Added the first look at settings display want confirmation its what we
          1.) Finish settings display if this is the look we like.
          2.) Look into a better format for keeping deffs up, I scrapped what I had previously wasn't happy with it 
              (Currently Phaestus is working on curing stuff so he might fix this issue for us.)
-     
+             
+             
+V0.4.2 -- Added some Prompt options, fixed issues with NDB settings not saving.
+       -- Currently working on extended Defkeepup from SS
+       
+       
