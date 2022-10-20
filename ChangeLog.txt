@@ -58,4 +58,7 @@ V0.4.1 -- Added the first look at settings display want confirmation its what we
 V0.4.2 -- Added some Prompt options, fixed issues with NDB settings not saving.
        -- Currently working on extended Defkeepup from SS
        
+V0.5   --Added SS Defence tracking and Defense saving. Fixed a few more NDB issues, now tracking gods/rogues
+       --Fixed Prio/Deprio/Reprio functions for Curing Swaps
+       
        
