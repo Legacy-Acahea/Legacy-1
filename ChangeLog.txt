@@ -61,4 +61,12 @@ V0.4.2 -- Added some Prompt options, fixed issues with NDB settings not saving.
 V0.5   --Added SS Defence tracking and Defense saving. Fixed a few more NDB issues, now tracking gods/rogues
        --Fixed Prio/Deprio/Reprio functions for Curing Swaps
        
+V0.6  --Fixed and polished Defences and sorted some bugs/typos
+
+
+V0.6.3 --Added some missing defs (There are very possibly more)
+       --This is the version out to the most people for testing currently.
+       
+       
+       
        
