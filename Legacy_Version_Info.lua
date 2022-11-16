@@ -1,2 +1,2 @@
-return {{[ [[Version]] ] = [[0.6.10]],[ [[msg]] ] = [[Please update, thanks]],},
+return {{[ [[Version]] ] = [[0.6.6]],[ [[msg]] ] = [[Clck here to update!]],},
 }
