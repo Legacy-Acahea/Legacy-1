@@ -1,5 +1,5 @@
-return {{[ [[Trades]] ] = {2},[ [[DDB]] ] = {3},[ [[Sailing]] ] = {4},},
-{[ [[link]] ] = [[https://github.com/Legacy-Acahea/Legacy/raw/main/Trades.mpackage]],[ [[desc]] ] = [[Updated as of 11/20/22. Added more gags, fixed the queue breaking on not enough reagents. Augmentation is still getting fixed up.]],},
-{[ [[link]] ] = [[]],[ [[desc]] ] = [[This is not out yet...soon(tm)]],},
-{[ [[link]] ] = [[]],[ [[desc]] ] = [[This is not out yet...soon(tm)]],},
+return {{[ [[Trades]] ] = {2},[ [[Limb Tracker]] ] = {3},[ [[Shrines]] ] = {4},},
+{[ [[link]] ] = [[https://github.com/AranosBanazir/Legacy/raw/main/Legacy%20Trades.mpackage]],[ [[desc]] ] = [[Legacy Trades Package for: Conjuration, Inkmilling, Augmentation]],},
+{[ [[link]] ] = [[https://github.com/27theo/limb/releases/download/v1.2/limb.1.2.mpackage]],[ [[desc]] ] = [[Romaen's Limb tracker]],},
+{[ [[link]] ] = [[]],[ [[desc]] ] = [[Legacy Shrine Tracker]],},
 }
